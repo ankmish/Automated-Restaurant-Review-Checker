@@ -1,2 +1,3 @@
 # Automated-Restaurant-Review-Checker
-Automated Restaurant Review Checker using-NLP
+
+NLP based automated restaurant review checker App using python and flask.
